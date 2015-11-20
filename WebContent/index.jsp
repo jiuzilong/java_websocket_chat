@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>ShiYanLou Chat</title>
+<title>笨鸟旅行在线咨询系统</title>
 
 <!-- Set render engine for 360 browser -->
 <meta name="renderer" content="webkit">
@@ -37,7 +37,7 @@
 	<div class="title">
 		<div class="am-g am-g-fixed">
 			<div class="am-u-sm-12">
-				<h1 class="am-text-primary">ShiYanLou Chat</h1>
+				<h1 class="am-text-primary">笨鸟旅行在线咨询系统</h1>
 			</div>
 		</div>
 	</div>
@@ -68,12 +68,12 @@
 			<div class="am-u-sm-6">
 				<div id="message-input-nickname" class="am-input-group am-input-group-primary">
 					<span class="am-input-group-label"><i class="am-icon-user"></i></span>
-					<input id="nickname" type="text" class="am-form-field" placeholder="Please enter nickname"/>
+					<input id="nickname" type="text" class="am-form-field" placeholder="请输入您的昵称"/>
 				</div>
 			</div>
 			<div class="am-u-sm-6">
 				<button id="send" type="button" class="am-btn am-btn-primary">
-					<i class="am-icon-send"></i> Send
+					<i class="am-icon-send"></i> 发送
 				</button>
 			</div>
 		</div>

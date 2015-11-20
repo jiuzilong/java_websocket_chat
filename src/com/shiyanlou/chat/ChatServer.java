@@ -43,6 +43,7 @@ public class ChatServer {
 			jsonObject.put("isSelf", openSession.equals(session));
 			// 发送JSON格式的消息
 			openSession.getAsyncRemote().sendText(jsonObject.toString());
+			System.out.println(jsonObject.toString());
 		}
 	}
 
