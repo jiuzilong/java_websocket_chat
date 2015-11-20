@@ -1,4 +1,4 @@
-package com.shiyanlou.chat;
+package cn.mozer.chat;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
